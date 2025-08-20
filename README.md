@@ -76,7 +76,7 @@ We welcome contributions! Please feel free to open issues or submit pull request
 
 ## License
 
-This document, **"The Constitution of Exoverse"** and **"Exoverse Whitepaper"**, is licensed under the [GNU General Public License (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html).
+This document, **"The Constitution of Exoverse"** and **"EXOMEM Whitepaper"**, is licensed under the [GNU General Public License (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html).
 
 You may copy, modify, and distribute this document under the terms of the GPL-3.0 License, but any modified versions must also be distributed under the same license.
 
